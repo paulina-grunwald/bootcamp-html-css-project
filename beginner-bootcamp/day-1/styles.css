@@ -1,16 +1,37 @@
-header {
-  background: #C4E3FB;
-  color: #131112;
-  width: 100%;
-  top: 0px;
-  left: 0px;
+main {
+background:#E5DADA;
+margin: 0 auto;
+overflow: hidden;
 }
 
+  header {
+  background: #C4E3FB;
+  top: 0px;
+  left: 0px;
+  margin: 0 auto;
+  overflow: hidden;
 
-
-
-
-
+}
+h1 {
+  color: #131112;
+  font-family: 'Caveat', cursive;
+ font-size: 60px;
+ line-height: 150px;
+ padding: 20px;
+ text-align: center;
+}
+h2 {
+  font-family: 'Caveat', cursive;
+  font-size: 40px;
+  padding 20px;
+  text-align: left;
+}
+ul{
+  font-family: 'Caveat', cursive;
+  font-size: 30px;
+  text-decoration: none;
+  padding 20px
+}
 code {
     background-color: #fff;
     color: #00aa86;
@@ -20,4 +41,13 @@ code {
 p {
   padding-top: 40px
   line-height: 150%
+}
+footer {
+  color: #131112;
+  font-family: 'Caveat', cursive;
+ font-size: 60px;
+ line-height: 150px;
+ padding: 20px;
+ text-align: center;
+ overflow: hidden;
 }
