@@ -41,6 +41,8 @@ code {
 p {
   padding-top: 40px
   line-height: 150%
+  ont-family: 'Open Sans Condensed', sans-serif;
+  line-height: 150%;
 }
 footer {
   color: #131112;
